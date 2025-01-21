@@ -25,9 +25,8 @@ HTBMachines es una herramienta de línea de comandos diseñada para facilitar la
     ```bash
     ./htbmachines
 
-
 ### Observación
 
 Para el correcto funcionamiento de la aplicación, será necesario disponer del archivo `bundle.js`. Para obtenerlo, hay que ejecutar la aplicación por primera vez de la siguiente forma:
-    ```bash
-    ./htbmachines -u
+   ```bash
+   ./htbmachines -u
