@@ -1,4 +1,4 @@
-## ldapInjection.py
+## `ldapInjection.py`
 
 Este script es un ejemplo de un ataque de inyección LDAP mediante fuerza bruta. Su propósito es obtener información sensible de una aplicación vulnerable que no valida correctamente las entradas del usuario, permitiendo la inyección de consultas LDAP maliciosas. El script realiza un ataque de fuerza bruta para descubrir los nombres de usuario válidos y luego obtiene la descripción asociada a cada uno de ellos.
 

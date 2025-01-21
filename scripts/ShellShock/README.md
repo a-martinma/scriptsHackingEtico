@@ -1,4 +1,4 @@
-## shellshock.py
+## `shellshock.py`
 
 Este script explota la vulnerabilidad Shellshock en un servidor vulnerable. La vulnerabilidad Shellshock afecta a versiones antiguas de Bash, permitiendo a un atacante ejecutar comandos arbitrarios en el servidor a través de variables de entorno maliciosas. El script aprovecha esta vulnerabilidad para obtener una shell inversa sin necesidad de escuchar manualmente en un puerto. En su lugar, el script establece la conexión directamente desde la consola que ejecuta el ataque.
 

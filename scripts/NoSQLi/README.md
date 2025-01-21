@@ -1,4 +1,4 @@
-## nosqli.py
+## `nosqli.py`
 
 Este script lleva a cabo un ataque de **fuerza bruta** sobre la contraseña de un usuario específico en una aplicación web que hace uso de una base de datos **NoSQL**. El script explota una vulnerabilidad de inyección en el campo de la contraseña, donde se utiliza una expresión regular `$regex` para probar combinaciones posibles.
 

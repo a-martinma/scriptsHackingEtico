@@ -1,4 +1,4 @@
-## sqliBasedTime.py
+## `sqliBasedTime.py`
 
 Este es un script de inyección SQL basado en el tiempo. Se utiliza para realizar ataques de **SQL Injection (SQLi)** que aprovechan el retraso temporal en la respuesta del servidor para extraer datos de la base de datos.
 
@@ -20,7 +20,7 @@ Un objetivo a largo plazo de este script es que no haya nada comentado y que tod
 
 ---
 
-## sqliConditionals.py
+## `sqliConditionals.py`
 
 Este es un script de inyección SQL que utiliza condiciones `OR` para realizar un ataque de **SQL Injection (SQLi)**. A diferencia de los ataques basados en tiempo, este script depende de la respuesta directa del servidor para determinar si una condición es verdadera o falsa.
 
@@ -38,11 +38,11 @@ El script está diseñado para funcionar con una URL objetivo y realizar consult
 
 ### Futuro del Script
 
-El objetivo es permitir que todo el proceso se pueda controlar mediante parámetros de línea de comandos, para que el script sea más flexible y pueda ser utilizado para diferentes tipos de pruebas sin necesidad de modificar el código.
+El objetivo es, al igual que en el script anterior. permitir que todo el proceso se pueda controlar mediante parámetros de línea de comandos, para que el script sea más flexible y pueda ser utilizado para diferentes tipos de pruebas sin necesidad de modificar el código.
 
 ---
 
-## sqliMaquinaIMF.py
+## `sqliMaquinaIMF.py`
 
 Este es un script de inyección SQL diseñado específicamente para la máquina **IMF 1** de VulnHub. Utiliza un ataque de **SQL Injection (SQLi)** para extraer información sobre las páginas de administración de un CMS.
 
