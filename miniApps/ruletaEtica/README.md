@@ -1,6 +1,6 @@
-# Ruleta Bash Script 🎰
+# Ruleta Ética 🎰 - Bash Script 
 
-Este proyecto es un script en Bash para simular un juego de ruleta. Permite elegir el dinero inicial, la técnica de apuesta (Martingala o Labouchere inversa) y si deseas apostar a números pares o impares. El objetivo es probar estrategias de apuesta y administrar el dinero mientras juegas.
+Este proyecto es un script en Bash para simular un juego de ruleta. Permite elegir el dinero inicial, la técnica de apuesta (Martingala o Labouchere inversa) y si deseas apostar a números pares o impares. 
 
 Uno de los principales objetivos de este proyecto es, además de mejorar las habilidades en scripting, darse cuenta de que jamás se puede vencer a la ruleta. La banca siempre gana.
 
