@@ -1,4 +1,4 @@
-# Ruleta Ética 🎰 - Bash Script 
+# Ruleta Ética - Bash Script 
 
 Este proyecto es un script en Bash para simular un juego de ruleta. Permite elegir el dinero inicial, la técnica de apuesta (Martingala o Labouchere inversa) y si deseas apostar a números pares o impares. 
 
